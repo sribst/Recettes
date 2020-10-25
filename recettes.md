@@ -20,3 +20,11 @@ Attention à ne pas confondre if, sapin et épicéa. L'if est mortel, même à f
 
 * Les pommes de l'épicéa pousse vers le bas, alors que celles du sapin poussent vers le haut.
 * Les aiguilles de l'épicéa poussent dans n'importe quelle direction autour de la branche, alors que celles du sapin poussent à l'horizontale.
+
+# Biscuits fourrés à base de pain rassis.
+Ecraser 110g de pain sec.
+Mélanger dans un saladier le pain écrasé, 30g d'huile de coco, 1 cuillère à soupe de beurre de cacahuète et 1 oeuf.
+Tapisser le fond d'un moule à muffin avec le mélange. Bien tasser.
+Déposer une cuillère à soupe de la garniture de votre choix (confiture, pate à tartiner etc). Ne soyez pas avare, c'est ce qui donne du goût à vos biscuits.
+Deposer du mélange par dessus et tasser délicatement.
+Enfourner à 180° pour 15 minutes.
