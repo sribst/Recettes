@@ -1,0 +1,14 @@
+\usepackage{float}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
+
+\renewcommand{\cleardoublepage}{\clearpage}
+
+\oddsidemargin \dimexpr .5in -1in
+\evensidemargin \dimexpr .5in -1in
+\textwidth \dimexpr \pdfpagewidth -2\oddsidemargin -2in
