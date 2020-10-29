@@ -58,6 +58,30 @@ rajouter fromage râpés, tomates etx
 5. Deposer du mélange par dessus et tasser délicatement.
 6. Enfourner à 180° pour 15 minutes.
 
+
+### Riz-au-lait
+
+|   |        |                |
+|---|--------|----------------|
+| 1 | tasse  | riz rond       |
+| 5 | tasses | lait entier    |
+| 1 | cuil.  | crème          |
+| 1 | noix   | beurre         |
+| 1 | pincée | sel            |
+| 1 | cuil.  | sucre          |
+| 3 | sachet | sucre vanillÃ© |
+
+1. Mettez une noix de beurre à fondre dans une casserole. Ajoutez
+    le riz en remuant sur feu moyen pendant 3-4 mn. Versez le lait
+    entier, puis le sucre, la pincée de sel et la gousse de vanille
+    fendue. Remuez et baissez le feu.
+2. Il faut que le lait chauffe très doucement. Laissez cuire en surveillant et
+    en remuant souvent pour éviter que le riz ne colle au fond.
+3. Aprè¨s 35 mn, vérifiez la cuison et la consistance. Il faut que le lait soit
+    crémeux et que le riz soit bien cuit.
+4. Retirez la gousse de vanille et rectifiez le goût pour le sucre. Verser dans
+    des petits ramequins individuels et laisser refroidir.
+
 ## Boissons
 
 ### Sapinette
