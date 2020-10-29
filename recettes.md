@@ -31,6 +31,20 @@ linkcolor: blue
 4. faire revenir les lardons etles oignons
 5. répartir tt ça dans un plat en mettant des demi reblochons dessus
 
+### tarte olives
+|       |               |
+|-------|---------------|
+| 1     | pate à tarte  |
+| 1 pot | olive verte   |
+| 1 pot | olive noir    |
+| 1 pot | creme fraiche |
+
+il faut faire une bonne pâte à tarte (c’est toujours meilleur quand fait maison)
+puis un pot d’olives vertes/ un pot d’olives noir que tu mixes (pas trop non
+plus pour ne pas faire de la tapenade). Et tu y mets l’équivalent d’un tout
+petit pot de crème.  Herbes de Provence, et c’est tout! Après tu peux toujours
+rajouter fromage râpés, tomates etx
+
 ## Dessert
 
 ### Biscuits fourrés à base de pain rassis.
