@@ -119,6 +119,51 @@ rajouter fromage râpés, tomates etx
   la branche, alors que celles du sapin poussent à l'horizontale.
 
 ## Gourmandise
+
+## Autre
+
+### Pain au levain
+|             |        |
+|-------------|--------|
+| levain      | \~10g  |
+| farine T110 | \~550g |
+| eau         | \~350g |
+| sel         | 9g     |
+
+1.  Sortir le levain du frigo
+2.  Ajouter 50g de farine et 50g d'eau pour réactiver et grossir le
+    levain
+3.  mélanger fortement avec fouet
+4.  laiser reposer \~10h jusqu'a qu'il y ai des belles bulles
+5.  dans un saladier mettre 500g de farine, 295g d'eau 90g de levain, et
+    9g de sel
+6.  melanger et petrir beaucoup, essayer de creer des bulles d'air dans
+    la pate
+7.  laisser reposer \~10h sous un torchon propre
+8.  préchauffer le four à 250°
+9.  rapidement jeter de l'eau au fond du jour, enfourner le pain et un
+    plat avec de l'eau
+
+-### pate à tarte tupperware
+
+|                |                                                  |
+|----------------|--------------------------------------------------|
+| 250            | farine                                           |
+| 1 cuil. à café | levure chimique                                  |
+| 1 cuil. à café | sel                                              |
+| 100 ml         | eau                                              |
+| 100 ml         | huile (ou 100g de beurre fondu si recette sucré) |
+
+1. faire bouillir l'eau
+2. mettre les ingrédiant dans l'ordre dans un tup :
+   - farine
+   - levure
+   - sel
+   - eau
+   - huile ou beurre
+3. Secouer énergiquement 30 secondes verticalement et horizontalement.
+4. rassembler la pâte en boule, elle est prête à l’emploi.
+
 ### Gelée / pâte de coing
 1. Mettre les coings avec un peu d'eau dans une casserole pour en faire une
    compote.
