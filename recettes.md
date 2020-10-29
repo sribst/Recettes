@@ -14,6 +14,23 @@ linkcolor: blue
 
 ## Plat
 
+### tartiflette
+
+|        |                |
+|--------|----------------|
+| 2.5 ko | pomme de terre |
+| 2      | reblochons     |
+| 7      | oignons        |
+| 20cl   | vin blanc      |
+| 30cl   | clème fraiche  |
+| 500g   | lardon         |
+
+1. faire cuires les patates à l'eau
+2. éplucher et couper en rondelle
+3. dorée à la poêle au beurre
+4. faire revenir les lardons etles oignons
+5. répartir tt ça dans un plat en mettant des demi reblochons dessus
+
 ## Dessert
 
 ### Biscuits fourrés à base de pain rassis.
