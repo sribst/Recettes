@@ -82,6 +82,28 @@ rajouter fromage râpés, tomates etx
 4. Retirez la gousse de vanille et rectifiez le goût pour le sucre. Verser dans
     des petits ramequins individuels et laisser refroidir.
 
+
+### Gateau chocolat-compote
+
+|                  |          |
+|------------------|----------|
+| :chocolat:       | 200g     |
+| oeuf             | 3        |
+| sucre            | 30g      |
+| compote de pomme | 150g     |
+| farine           | 60g      |
+| levure chimique  | 1 sachet |
+| sel              | 1 pincée |
+
+1.  préchauffez le four à 180°C
+2.  faites fondre le chocolat aux micro-onds ou au bain-marie.
+3.  dans un récipient, fouettez ensemble les oeufs et le sucre.
+4.  ajouter le chocolat fondu au mélange, puis la farine, la levure et
+    le sel. Mélangez.
+5.  Ajoutez la compote.
+6.  Versez dans un moule. Beurrez si nécessaire.
+7.  Enfournez pour 25 minutes.
+
 ## Boissons
 
 ### Sapinette
