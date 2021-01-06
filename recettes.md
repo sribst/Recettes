@@ -87,7 +87,7 @@ rajouter fromage râpés, tomates etx
 
 |                  |          |
 |------------------|----------|
-| :chocolat:       | 200g     |
+| chocolat         | 200g     |
 | oeuf             | 3        |
 | sucre            | 30g      |
 | compote de pomme | 150g     |
@@ -103,6 +103,65 @@ rajouter fromage râpés, tomates etx
 5.  Ajoutez la compote.
 6.  Versez dans un moule. Beurrez si nécessaire.
 7.  Enfournez pour 25 minutes.
+
+### Galette frangipane
+
+#### creme patissière
+
+|         |           |
+|---------|-----------|
+| oeuf    | 1         |
+| sucre   | 30g       |
+| maizena | 10g       |
+| lait    | 60g       |
+
+1. faire bouillir le lait
+2. mélanger l'oeuf et le sucre dans un saladier
+3. ajouter maizena
+4. ajouter le lait bouillant
+5. faire bouillir
+6. refroidir puis mettre au frigo
+
+#### frangipane
+
+|               |           |
+|---------------|-----------|
+| beurre        | 250g      |
+| sucre         | 210g      |
+| poudre amande | 300g      |
+| sel           | 1 pincée  |
+| oeuf          | 3~4       |
+| rhum          | 1 bouchon |
+
+
+1. faire ramollir du beurre au micro-onde
+2. le fouetter pour lui donner une texture pommade
+3. ajouter le sucre et mélanger
+4. ajouter la poudre d'amande
+5. ajouter les oeufs petits à petits
+6. ajouter la creme patissière froide
+
+
+
+#### galette
+|                |   |
+|----------------|---|
+| pate feuilleté | 4 |
+
+1. mettre deux pates sur 1 plaques
+2. ajouter la frangipane en laissant 3 cm sur le bord
+3. mouiller les bord (3cm) et ajouter la pate supérieur
+4. bien appuyer sur le bord pour que ça colle bien
+5. retourner les galettes et les mettre au frigo avec un feuille de cuisson
+   par dessus
+6. sortir et retourner les galettes
+7. dorer le dessus avec un jaune d'oeuf
+8. mettre au frigo 5mn avec une feuille de cuisson
+9. redorer avec jaune d'oeuf
+10. rayer avec un couteau
+11. faire quelques petits trou pour laisser la vapeur s'échapper
+12. préchauffer le four à 210°
+13. baisser à 190° et enfourner pour 30 mn
 
 ## Boissons
 
